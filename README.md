@@ -15,7 +15,7 @@ TVH Hospital Management System is a comprehensive web-based application designed
 
 ### 👨‍⚕️ For Doctors
 
-- **Appointment Management:** View and manage upcoming appointments
+- **Appointment Management:** View and manage upcoming appointments with full details
 - **Patient Records:** Access patient medical histories
 - **Treatment Documentation:** Record diagnoses and treatment plans
 - **Schedule Management:** Manage availability and working hours
